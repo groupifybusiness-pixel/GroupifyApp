@@ -37,6 +37,17 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {
+        "asyncRoutes": {
+          "web": true
+        }
+      },
+      "eas": {
+        "projectId": "6112cfa6-9655-4cb4-a795-c02642592305"
+      }
+    },
+    "owner": "groupifybusinessbommu"
   }
 }
